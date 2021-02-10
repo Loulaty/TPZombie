@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1612802309 source:c:\users\render\documents\codeblocks\tpusineazombie\main.cpp
+	"Zombies.h"
+
+1612803134 c:\users\render\documents\codeblocks\tpusineazombie\include\zombies.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612803147 source:c:\users\render\documents\codeblocks\tpusineazombie\src\zombies.cpp
+	"Zombies.h"
+
+1612803111 source:c:\users\render\documents\codeblocks\tpusineazombie\src\zombiebomber.cpp
+
+1612944538 source:c:\users\metal bean (at 3 am)\desktop\tpusineazombie\main.cpp
+	"ZombieBomber.h"
+
+1612941789 c:\users\metal bean (at 3 am)\desktop\tpusineazombie\include\zombies.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612944532 source:c:\users\metal bean (at 3 am)\desktop\tpusineazombie\src\zombiebomber.cpp
+	"ZombieBomber.h"
+
+1612943854 source:c:\users\metal bean (at 3 am)\desktop\tpusineazombie\src\zombies.cpp
+	"Zombies.h"
+
+1612944355 c:\users\metal bean (at 3 am)\desktop\tpusineazombie\include\zombiebomber.h
+	"Zombies.h"
+
+1612953489 source:c:\users\render\desktop\tpusineazombie\main.cpp
+	"ZombieBomber.h"
+
+1612953351 c:\users\render\desktop\tpusineazombie\include\zombiebomber.h
+	<Zombies.h>
+
+1612941790 c:\users\render\desktop\tpusineazombie\include\zombies.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612953518 source:c:\users\render\desktop\tpusineazombie\src\zombiebomber.cpp
+	"ZombieBomber.h"
+
+1612943856 source:c:\users\render\desktop\tpusineazombie\src\zombies.cpp
+	"Zombies.h"
+
