@@ -72,3 +72,4 @@ void Zombie::attackZombie(Zombie* cible){
         cible->setPv(cible->getPv() - getAttack());
     }
 
+

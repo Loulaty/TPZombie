@@ -16,8 +16,11 @@ void ZombieBomber::operator+=(ZombieBomber const & a){
 
 ZombieBomber::ZombieBomber()
 {
-   setAttack(getAttack()*2);
+//    void ZombieBomber::operator+=(ZombieBomber){
+        setAttack(getAttack()*2);
+
 }
+
 
 ZombieBomber::~ZombieBomber()
 {
@@ -29,3 +32,4 @@ void ZombieBomber::explosion(Zombie* cible){
         setPv(0);
         Zombie::~Zombie;
     }
+

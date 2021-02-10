@@ -52,3 +52,22 @@
 1612943856 source:c:\users\render\desktop\tpusineazombie\src\zombies.cpp
 	"Zombies.h"
 
+1612954922 source:c:\users\render\desktop\tpzombie\main.cpp
+	"ZombieBomber.h"
+
+1612953351 c:\users\render\desktop\tpzombie\include\zombiebomber.h
+	<Zombies.h>
+
+1612941790 c:\users\render\desktop\tpzombie\include\zombies.h
+	<string>
+	<iostream>
+	<random>
+	<ctime>
+	<stdlib.h>
+
+1612954841 source:c:\users\render\desktop\tpzombie\src\zombiebomber.cpp
+	"ZombieBomber.h"
+
+1612954863 source:c:\users\render\desktop\tpzombie\src\zombies.cpp
+	"Zombies.h"
+

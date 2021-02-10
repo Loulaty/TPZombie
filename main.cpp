@@ -34,7 +34,7 @@ int main()
 	ZombieBomber b;
 	b.setNom("Bomby");
 	b.setPv (50);
-	b.setAttack(10);
+	b.setAttack(5);
     b.showInfos();
     cout << endl;
 
