@@ -14,6 +14,20 @@ void ZombieBomber::operator+=(ZombieBomber const & a){
 }*/
 
 
+/*setAttack(int a)
+{
+	if (a> 10 || a < 0) {
+		attack = 0;
+		cout<< "se decompose"<< endl;
+	}
+	else {
+		attack = a;
+	}
+}
+*/
+
+
+
 ZombieBomber::ZombieBomber()
 {
 //    void ZombieBomber::operator+=(ZombieBomber){

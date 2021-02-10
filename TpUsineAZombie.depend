@@ -52,10 +52,11 @@
 1612943856 source:c:\users\render\desktop\tpusineazombie\src\zombies.cpp
 	"Zombies.h"
 
-1612954922 source:c:\users\render\desktop\tpzombie\main.cpp
+1612955779 source:c:\users\render\desktop\tpzombie\main.cpp
 	"ZombieBomber.h"
+	"ZombieTank.h"
 
-1612953351 c:\users\render\desktop\tpzombie\include\zombiebomber.h
+1612955789 c:\users\render\desktop\tpzombie\include\zombiebomber.h
 	<Zombies.h>
 
 1612941790 c:\users\render\desktop\tpzombie\include\zombies.h
@@ -65,9 +66,15 @@
 	<ctime>
 	<stdlib.h>
 
-1612954841 source:c:\users\render\desktop\tpzombie\src\zombiebomber.cpp
+1612955200 source:c:\users\render\desktop\tpzombie\src\zombiebomber.cpp
 	"ZombieBomber.h"
 
-1612954863 source:c:\users\render\desktop\tpzombie\src\zombies.cpp
+1612955277 source:c:\users\render\desktop\tpzombie\src\zombies.cpp
 	"Zombies.h"
+
+1612955525 source:c:\users\render\desktop\tpzombie\src\zombietank.cpp
+	"ZombieTank.h"
+
+1612955789 c:\users\render\desktop\tpzombie\include\zombietank.h
+	<Zombies.h>
 

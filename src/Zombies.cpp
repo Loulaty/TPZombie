@@ -27,7 +27,7 @@ int Zombie::getPv() const
 
 void Zombie::setPv(int p) {/**<  */
 	if (p > 100 || p < 0) {
-		pv = 0;
+        cout<< "trop de pv"<< endl;
 		cout<< "se decompose"<< endl;
 	}
 	else {
@@ -53,7 +53,7 @@ int Zombie::getAttack() const
 void Zombie::setAttack(int a)
 {
 	if (a> 10 || a < 0) {
-		attack = 0;
+        cout<< "trop de force"<< endl;
 		cout<< "se decompose"<< endl;
 	}
 	else {
