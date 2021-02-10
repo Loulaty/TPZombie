@@ -38,7 +38,6 @@ public:
 	int getAttack() const;
 	void setAttack(int a);
 
-    //AFFICHE LES INFOS DU PERSO
 	void showInfos() const;
 
     void attackZombie(Zombie* cible);

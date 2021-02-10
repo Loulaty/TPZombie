@@ -12,12 +12,11 @@ ZombieTank::~ZombieTank()
 
 }
 
-void Tank::setPv(int p)
+/*void ZombieTank::setPv(int p)
 {
     if(armor>=h){
         armor=-h;
     }else{
     }
     if(h)
-
-}
+}*/
